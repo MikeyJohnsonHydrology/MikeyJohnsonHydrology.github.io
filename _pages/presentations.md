@@ -4,7 +4,7 @@ permalink: /presentations/
 title: "Presentations"
 author_profile: true
 header:
-  image: "/images/AGU Poster V5.pdf"
+  image: "/images/MJohnson_AGU_Poster.jpeg"
 ---
 
 # 2019

@@ -19,7 +19,7 @@ Years: (2018 - Present)
 
 The Willamette INFEWS project is a research effort, funded by a grant from the National Science Foundation and led by Oregon State University.  The project focuses on the Willamette River Basin, a 11,600 mi2 (30,000 km2) watershed with diverse land use and a history of intensive study and integrated modeling.  Within the context of this basin, this project asks: What are the tradeoffs and adaptation pathways that will help us satisfy competing ecological demands while also securing food, water and energy for a growing population?
 
-[Willamette INFEWS](infews.org)
+[Willamette INFEWS](https://infews.org/)
 
 
 **NASA SnowEx**
