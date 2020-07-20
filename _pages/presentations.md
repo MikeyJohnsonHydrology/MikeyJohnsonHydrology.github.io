@@ -11,7 +11,7 @@ header:
 
 **AGU**, December 9, 2019, *Forest Management Linkages to Snow, Wildfire, and Hydrology in the Oregon Cascades*
 
-[AGU Fall Meeting 2019](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/604201)
+[Abstract for the AGU Fall Meeting 2019](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/604201)
 
 
 **Willamette INFEWS Stakeholders Meeting**, November 19, 2019, *Forest Management Linkages to Snow, Wildfire, and Hydrology in the Oregon Cascades*
