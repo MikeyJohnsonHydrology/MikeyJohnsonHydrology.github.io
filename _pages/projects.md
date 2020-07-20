@@ -11,7 +11,7 @@ header:
 
 **Innovations at the Nexus of Food, Energy and Water Systems**
 
-Collaborators: Dr. Anne Nolin, Dr. Chad Higgins
+Collaborators: Dr. Chad Higgins, Dr. Anne Nolin, Dr. David Rupp
 
 Funding: National Science Foundation
 
@@ -24,7 +24,7 @@ The Willamette INFEWS project is a research effort, funded by a grant from the N
 
 **NASA SnowEx**
 
-Collaborators: Dr. Anne Nolin
+Collaborators: Dr. Anne Nolin, Jack Tarricone
 
 Funding: NASA Terrestrial Hydrology Program
 
