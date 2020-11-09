@@ -6,6 +6,9 @@ author_profile: true
 header:
   image: "/images/MJohnson_AGU_Poster.jpeg"
 ---
+# 2020
+**AGU**, December 7, 2020, *A Model-based Approach to Quantify the Impacts of Forest thinning on a Maritime Snowpack*
+[Abstract for the AGU Fall Meeting 2020](https://agu.confex.com/agu/fm20/prelim.cgi/Paper/732522)
 
 # 2019
 
