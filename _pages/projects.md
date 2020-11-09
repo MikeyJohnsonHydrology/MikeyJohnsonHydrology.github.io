@@ -47,3 +47,11 @@ Years: (2015-2016) & (2016-2017)
 The McMurdo Dry Valleys LTER project is an interdisciplinary study of the aquatic and terrestrial ecosystems in a cold desert region of Antarctica. In 1992 this area was selected as a study site within the National Science Foundation's Long-term Ecological Research (LTER) Program.
 
 [McMurdo Dry Valleys LTER](http://mcm.lternet.edu/)
+
+**Arikaree Environmental Lab, INSTAAR**
+
+Years: (2013-2014)
+
+The Arikaree Environmental Lab is the environmental chemistry lab for the Niwot Ridge Long-Term Ecological Research site.  The lab can analyze water, snow, soil, and air samples for major solutes and nutrients.  Equipment includes an ion chromatograph, atomic absorption spectrometer, total organic carbon analyzer, spectrophotometric flow injection analyzer, and isotopic liquid water analyzer among other instruments.
+
+[Arikaree Environmental Lab](http://instaar.colorado.edu/research/labs-groups/arikaree-environmental-lab/)
