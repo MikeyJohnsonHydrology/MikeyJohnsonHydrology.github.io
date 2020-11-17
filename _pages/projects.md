@@ -11,7 +11,7 @@ header:
 
 **Innovations at the Nexus of Food, Energy and Water Systems**
 
-Collaborators: Dr. Chad Higgins, Dr. Anne Nolin, Dr. David Rupp
+Collaborators: Dr. Chad Higgins, Dr. Anne Nolin, Dr. Stephen Drake, Dr. David Rupp
 
 Funding: National Science Foundation
 
