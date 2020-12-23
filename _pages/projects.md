@@ -21,6 +21,7 @@ The Willamette INFEWS project is a research effort, funded by a grant from the N
 
 [Willamette INFEWS](https://infews.org/)
 
+## Old Projects
 
 **NASA SnowEx**
 
@@ -28,13 +29,12 @@ Collaborators: Dr. Anne Nolin, Jack Tarricone
 
 Funding: NASA Terrestrial Hydrology Program
 
-Years: (2019 - Present)
+Years: (2019 - 2020)
 
 SnowEx is a five year program initiated and funded by NASA THP to address the most important gaps in snow remote sensing knowledge. It focuses on airborne campaigns and field work, and on comparing the various sensing technologies, from the mature to the more experimental, in globally-representative types of snow. The goal is to address the most important gaps in our snow remote sensing knowledge, and thus lay the groundwork for a future snow satellite mission.
 
 [NASA SnowEx](https://snow.nasa.gov/campaigns/snowex)
 
-## Old Projects
 
 **McMurdo Dry Valleys, Antartica Stream Team, MCM LTER**
 
