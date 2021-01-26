@@ -8,6 +8,7 @@ header:
 ---
 # 2021
 **NWRA Annual Conference**, January 18, 2021, *A Model-based Approach to Quantify the Effects of Forest Thinning on Snow Water Resources*
+**2nd Place, Graduate Student Poster Compition**
 
 # 2020
 **AGU**, December 7, 2020, *A Model-based Approach to Quantify the Impacts of Forest thinning on a Maritime Snowpack*
