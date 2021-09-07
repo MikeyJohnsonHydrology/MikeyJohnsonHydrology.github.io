@@ -7,6 +7,8 @@ header:
   image: "/images/MJohnson_AGU_2020.jpg"
 ---
 # 2021
+**Western Snow Conference**, April 12-15, 2021, *A Model-based Approach to Quantify the Effects of Forest Thinning on Snow Water Resources*
+
 **NWRA Annual Conference**, January 18, 2021, *A Model-based Approach to Quantify the Effects of Forest Thinning on Snow Water Resources*
 **(2nd Place, Graduate Student Poster Compition)**
 
