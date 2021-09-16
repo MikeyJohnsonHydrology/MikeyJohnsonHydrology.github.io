@@ -8,7 +8,7 @@ main:
     url: /presentations/
   - title: "Work Experience"
     url: /work_experience/
-   - title: "Practical Skills"
+  - title: "Practical Skills"
     url: /practical_skills/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
