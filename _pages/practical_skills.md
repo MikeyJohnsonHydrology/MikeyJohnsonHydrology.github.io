@@ -10,13 +10,13 @@ header:
 ## Practical Skills
 
 - The Fundamentals of Engineering (FE) exam passed 2008
--	Hydrologic modeling of snow and snowmelt using SnowModel (UNR)
--	Hydraulic modeling of river flow using HEC-RAS 1D & 2D (AWS)
--	Spatial analysis and mapping using ArcGIS, QGIS, and R (UNR, CU)
--	Computer programing and data processing using R and MATLAB (UNR, CU)
--	Surveying and leveling using a total station and rod and level (McM LTER)
--	Infield flow measurements and sediment sampling (McM LTER, INSTARR, CU)
--	Infield snow sampling for measuring liquid water content and cold content (UNR)
--	Structural Engineering, foundation design, steal and wood structure (SFSU)
+-	Hydrologic modeling of snow and snowmelt using SnowModel
+-	Hydraulic modeling of river flow using HEC-RAS 1D & 2D
+-	Spatial analysis and mapping using ArcGIS, QGIS, and R
+-	Computer programing and data processing using R and MATLAB
+-	Surveying and leveling using a total station and rod and level
+-	Infield flow measurements and sediment sampling
+-	Infield snow sampling for measuring liquid water content and cold content
+-	Structural Engineering, foundation design, steal and wood structure
 
 
