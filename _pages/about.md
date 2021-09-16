@@ -7,4 +7,4 @@ header:
   image: "/images/InclinePeak.jpg"
 ---
 
-I'm a PhD student in the Graduate Program of Hydrologic Sciences at the University of Nevada Reno. My areas of interest are snow hydrology, streamflow generation, and mountain forest ecosystems.  I am specifically interested in improved methods for snow modeling that will advance the accuracy of ecological and river forecast models.
+I am Hydrologist and Engineer in Training living in Nevada Reno. My areas of interest are snow hydrology, streamflow generation, and mountain forest ecosystems.  I am specifically interested in engineering application of hydrologic processes to improve water use and availbility for natural and human ecosystems.
