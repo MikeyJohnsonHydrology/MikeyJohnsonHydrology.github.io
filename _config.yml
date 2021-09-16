@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Mikey Johnson"
   avatar           : "images/skypick.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hydrologest/Engineer"
+  bio              : "Hydrologest"
   location         : "Reno, NV"
   email            : "mikeyj@nevada.unr.edu"
   links:
