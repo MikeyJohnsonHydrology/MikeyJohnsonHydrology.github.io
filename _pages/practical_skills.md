@@ -1,13 +1,12 @@
 ---
 layout: archive
 permalink: /practical_skills/
-title: "Projects"
+title: "Practical Skills"
 author_profile: true
 header:
   image: "/images/streamteam.jpg"
 ---
 
-## Practical Skills
 
 - The Fundamentals of Engineering (FE) exam passed 2008
 -	Hydrologic modeling of snow and snowmelt using SnowModel
