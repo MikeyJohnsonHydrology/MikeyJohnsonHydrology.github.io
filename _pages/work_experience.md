@@ -9,8 +9,8 @@ header:
 
 ## Work Experience
 
-**The American River Touring Association**
-**[Willamette INFEWS](https://infews.org/)**
+**The American River Touring Association, **
+**[ARTA River Trips](https://arta.org/)**
 
 Groveland, CA and Salmon, ID (Summers, 2004 to 2017)
 
