@@ -12,7 +12,7 @@ header:
 -	Hydrologic modeling of snow and snowmelt using SnowModel
 -	Hydraulic modeling of river flow using HEC-RAS 1D & 2D
 -	Spatial analysis and mapping using ArcGIS, QGIS, and R
--	Computer programing and data processing using R and MATLAB
+-	Computer programing and data processing using R, MATLAB, and FORTRAN
 -	Surveying and leveling using a total station and rod and level
 -	Infield flow measurements and sediment sampling
 -	Infield snow sampling for measuring liquid water content and cold content
