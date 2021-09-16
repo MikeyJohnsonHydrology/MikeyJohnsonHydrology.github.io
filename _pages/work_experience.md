@@ -9,8 +9,11 @@ header:
 
 ## Work Experience
 
-**The American River Touring Association (ARTA River Trips)**
+**The American River Touring Association**
+**[Willamette INFEWS](https://infews.org/)**
+
 Groveland, CA and Salmon, ID (Summers, 2004 to 2017)
+
 -	Tuolumne River Area Manager, coordination of 10 guides and running up to 30 trips in a season
 -	Lead guide and instructor for multi-day wilderness trips and rowing schools
 -	Risk manager when running high water trips in the spring
