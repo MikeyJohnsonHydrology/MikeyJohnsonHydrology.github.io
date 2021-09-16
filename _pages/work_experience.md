@@ -8,7 +8,7 @@ header:
 ---
 
 
-**The American River Touring Association**
+**The American River Touring Association,**
 [ARTA River Trips](https://arta.org/)
 
 
