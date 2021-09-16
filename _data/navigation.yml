@@ -6,6 +6,10 @@ main:
     url: /projects/
   - title: "Presentations"
     url: /presentations/
+  - title: "Work Experience"
+    url: /work_experience/
+   - title: "Practical Skills"
+    url: /practical_skills/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
