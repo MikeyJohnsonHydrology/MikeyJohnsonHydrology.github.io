@@ -15,6 +15,8 @@ Reno, Nevada (Fall 2018 - Fall 2021)
 - Research
 
 - Teaching
+
+
 ** **
 
 
