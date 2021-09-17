@@ -7,7 +7,8 @@ header:
   image: "/images/streamteam.jpg"
 ---
 
-**Graduate Program of Hydrological Sciences, University of Nevada, Reno**
+**Graduate Program of Hydrological Sciences, University of Nevada, Reno,**
+[Computational Mountain Studies Research Group](https://www.computationalmountainstudies.com/)
 
 Reno, Nevada (Fall 2018 - Fall 2021)
 
