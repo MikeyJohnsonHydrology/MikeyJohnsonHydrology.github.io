@@ -12,9 +12,10 @@ header:
 
 Reno, Nevada (Fall 2018 - Fall 2021)
 
-- Research
-
-- Teaching
+-	Collaborated on model development for the Willamette INFEWS project
+-	Took part in hydrologic model calibration and validation for Willamette INFEWS
+-	Designed and taught physical geography labs for a class of 60 student
+-	Assisted with physical geography lecture, grading, and activates  
 
 
 ** **
