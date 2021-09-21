@@ -9,8 +9,10 @@ header:
 # 2021
 **Western Snow Conference**, April 12-15, 2021, *A Model-based Approach to Quantify the Effects of Forest Thinning on Snow Water Resources*
 
-**NWRA Annual Conference**, January 18, 2021, *A Model-based Approach to Quantify the Effects of Forest Thinning on Snow Water Resources*
+**Nevada Water Resources Association (NWRA) Annual Conference**, January 18, 2021, *A Model-based Approach to Quantify the Effects of Forest Thinning on Snow Water Resources*
 **(2nd Place, Graduate Student Poster Compition)**
+
+[NWRA Poster Presentation Video](https://www.youtube.com/watch?v=fTGzhK8B2tU)
 
 
 # 2020
