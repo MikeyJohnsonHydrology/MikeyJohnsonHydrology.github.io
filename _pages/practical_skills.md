@@ -7,15 +7,12 @@ header:
   image: "/images/streamteam.jpg"
 ---
 
-
 - The Fundamentals of Engineering (FE) exam passed 2008
--	Hydrologic modeling of snow and snowmelt using SnowModel
--	Hydraulic modeling of river flow using HEC-RAS 1D & 2D
--	Spatial analysis and mapping using ArcGIS, QGIS, and R
--	Computer programing and data processing using R, MATLAB, and FORTRAN
--	Surveying and leveling using a total station and rod and level
--	Infield flow measurements and sediment sampling
--	Infield snow sampling for measuring liquid water content and cold content
--	Structural Engineering, foundation design, steal and wood structure
-
-
+- Hydrologic modeling of snow and snowmelt using SnowModel
+- Hydraulic modeling of river flow using HEC-RAS 1D & 2D
+- Spatial analysis and mapping using ArcGIS, QGIS, and R
+- Basic computer drafting using AutoCAD
+- Computer programing and data processing using R and MATLAB
+- Surveying and leveling using a total station and rod and level
+- Flow measurements and sediment sampling
+- Snow sampling for measuring liquid water content and cold content
