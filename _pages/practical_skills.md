@@ -11,7 +11,8 @@ header:
 - Hydrologic modeling of snow and snowmelt using SnowModel
 - Hydraulic modeling of river flow using HEC-RAS 1D & 2D
 - Spatial analysis and mapping using ArcGIS, QGIS, and R
-- Basic computer drafting using AutoCAD
+- Computer-aided drafting and desing using AutoCAD
+- Basic civil infastructure desing using Civil 3D
 - Computer programing and data processing using R and MATLAB
 - Surveying and leveling using a total station and rod and level
 - Flow measurements and sediment sampling
