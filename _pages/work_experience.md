@@ -7,9 +7,18 @@ header:
   image: "/images/streamteam.jpg"
 ---
 
-**Domenichelli & Associates**
+**Domenichelli & Associates,**
+[D&A Engineering](http://www.daengineering.net/)
 
-El Dorado Hills, California (Winter 2021)
+El Dorado Hills, California (December 2021 - Present)
+
+-
+-
+-
+
+
+** **
+
 
 **Graduate Program of Hydrological Sciences, University of Nevada, Reno,**
 [Computational Mountain Studies Research Group](https://www.computationalmountainstudies.com/)
