@@ -9,6 +9,10 @@ header:
 
 ## Current Projects
 
+Carmichael Water District, 
+
+## Old Projects
+
 **Innovations at the Nexus of Food, Energy and Water Systems**
 
 Collaborators: Dr. Chad Higgins, Dr. Anne Nolin, Dr. Stephen Drake, Dr. David Rupp
@@ -21,7 +25,6 @@ The Willamette INFEWS project is a research effort, funded by a grant from the N
 
 [Willamette INFEWS](https://infews.org/)
 
-## Old Projects
 
 **NASA SnowEx**
 
