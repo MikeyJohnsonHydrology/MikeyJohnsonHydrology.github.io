@@ -12,9 +12,8 @@ header:
 
 El Dorado Hills, California (December 2021 - Present)
 
-- Flood control and stormwater engineering
-- Water and wastewater systems planning and design
-- River channel restoration 
+- Flood control and stormwater engineering with HEC-RAS
+- Water and wastewater systems planning and design with AutoCad Civil 3D
 
 
 ** **
