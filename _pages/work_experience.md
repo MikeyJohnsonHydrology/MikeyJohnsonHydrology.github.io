@@ -54,8 +54,9 @@ McMurdo Dry Valleys, Antartica (2014-215 Field Season and 2015-2016 Field Season
 
 Groveland, CA; Grants Pass, OR; and Salmon, ID (Summers, 2004 to 2017)
 
--	Tuolumne River Area Manager, coordination of 10 guides and running up to 30 trips in a season
+-	Tuolumne River Area Manager, coordination of 10 guides and running up to 40 trips in a season
 -	Lead guide and instructor for multi-day wilderness trips and rowing schools
 -	Risk manager when running high water trips in the spring
+-	Eqipment managment and repair specialist
 
 
