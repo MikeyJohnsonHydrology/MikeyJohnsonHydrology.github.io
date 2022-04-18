@@ -9,11 +9,15 @@ header:
 
 ## Current Projects
 
-**Infastructure mapping for Carmichael Water District
-**Fire Flow simulations and Technical Memorandum for Charmichale Water District
-**Drafting development and desing of lift stations for Eldorado Irrigation District
-**Drainage design for current developmet in Eldorado County
-**Main Line Development Projects for Carmichal Water District and City of Sacramento
+**Infastructure mapping for Carmichael Water District**
+
+**Fire Flow simulations and Technical Memorandum for Charmichale Water District**
+
+**Drafting development and desing of lift stations for Eldorado Irrigation District**
+
+**Drainage design for current developmet in Eldorado County**
+
+**Main Line Development Projects for Carmichal Water District and City of Sacramento**
 
 ## Old Projects
 
