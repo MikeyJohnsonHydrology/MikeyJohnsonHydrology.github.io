@@ -13,7 +13,7 @@ header:
 El Dorado Hills, California (December 2021 - Present)
 
 - Flood control and stormwater engineering with HEC-RAS
-- Water and wastewater systems planning and design with AutoCad Civil 3D
+- Water and wastewater systems planning and design with AutoCAD Civil 3D
 - GIS water system mapping with ArcMap
 - Fire Flow analysis using InfoWater
 
@@ -29,7 +29,8 @@ Reno, Nevada (Fall 2018 - Fall 2021)
 -	Collaborated on model development for the Willamette INFEWS project
 -	Took part in hydrologic model calibration and validation for Willamette INFEWS
 -	Designed and taught physical geography labs for a class of 60 student
--	Assisted with physical geography lecture, grading, and inclass activates  
+-	Assisted with physical geography lecture, grading, and in-class activates
+-       Took part in field surveys for the NASA SNOWEX field project
 
 
 ** **
@@ -38,7 +39,7 @@ Reno, Nevada (Fall 2018 - Fall 2021)
 **McMurdo Dry Valleys Long-Term Ecological Research (LTER) Site,**
 [McM LTER](https://mcm.lternet.edu/)
 
-McMurdo Dry Valleys, Antartica (2014-215 Field Season and 2015-2016 Field Season)
+McMurdo Dry Valleys, Antarctica (2014-215 Field Season and 2015-2016 Field Season)
 
 -	Stream gauge maintenance, water quality sampling, and maintaining rating a rating curve for 26 study sites in the McMurdo Dry Valleys
 -	Weekly logistics for stream measurement and travel to study sites
@@ -57,6 +58,6 @@ Groveland, CA; Grants Pass, OR; and Salmon, ID (Summers, 2004 to 2017)
 -	Tuolumne River Area Manager, coordination of 10 guides and running up to 40 trips in a season
 -	Lead guide and instructor for multi-day wilderness trips and rowing schools
 -	Risk manager when running high water trips in the spring
--	Eqipment managment and repair specialist
+-	Equipment management and repair specialist
 
 
