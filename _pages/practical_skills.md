@@ -17,3 +17,4 @@ header:
 - Stream surveying, flow measurements and sediment sampling
 - Hydrologic modeling of snow and snowmelt using SnowModel
 - Snow sampling for measuring liquid water content and cold content
+- Whitewater navigation, for comertial, recreational, and saftiy purposes
