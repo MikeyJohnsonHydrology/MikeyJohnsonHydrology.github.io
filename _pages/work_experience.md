@@ -12,10 +12,13 @@ header:
 
 El Dorado Hills, California (December 2021 - Present)
 
-- Flood control and stormwater engineering with HEC-RAS
-- Water and wastewater systems planning and design with AutoCAD Civil 3D
-- GIS water system mapping with ArcMap
-- Fire Flow analysis using InfoWater
+- Development of construction plan sets and grading designs for a wide variety of water-related infrastructure.
+- Hydraulic modeling of floodplains, bridges, detention structures, and pipe networks.
+- GIS mapping and spatial analysis
+- Various other analyses of hydraulics, hydrology, and scour.
+- Water and wastewater systems planning and pipeline design
+- GIS water system and groundwater mapping.
+- Hydraulic reports to inform bridge desing, scour, floodplain effects.
 
 
 ** **
