@@ -7,7 +7,8 @@ header:
   image: "/images/streamteam.jpg"
 ---
 
-- The Fundamentals of Engineering (FE) exam passed 2008
+- Principles and Practice of Engineering (PE) Exam passed 2023
+- The Fundamentals of Engineering (FE) Exam passed 2008
 - Hydraulic modeling of river flow using HEC-RAS 1D & 2D
 - Computer-aided drafting and desing using AutoCAD
 - Spatial analysis and mapping using ArcGIS, QGIS, and R
@@ -17,4 +18,4 @@ header:
 - Stream surveying, flow measurements and sediment sampling
 - Hydrologic modeling of snow and snowmelt using SnowModel
 - Snow sampling for measuring liquid water content and cold content
-- Whitewater navigation, for comertial, recreational, and saftiy purposes
+- Whitewater navigation, and Swiftwater Rescue
