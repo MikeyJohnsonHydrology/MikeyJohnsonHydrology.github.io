@@ -13,25 +13,26 @@ header:
 
 (2021-Present)
 
-D&A has subcontracted with MacKay and Somps to provide drainage design, calculations, and studies for development projects throughout the Sacramento region. D&A has provided over 100 studies in the region, many of which are for projects in Sacramento County DWR jurisdiction. Level 1, Level 2, and Level 4 studies have been prepared following the County’s drainage study requirements, both before and after the 2020 requirements document. In all cases, hydrology and hydraulics follow the County Drainage Manual Volume 2 and improvement plan Section 9 (Storm Drain Design. Drainage studies performed in the last five years have also considered the Sacramento Stormwater Quality Partnership Hydromodification Management Plan and the Sacramento Region Stormwater Quality Design Manual. D&A has taken a comprehensive approach to drainage design to incorporate low impact development, stormwater quality, hydromodification, and flood control. Example projects in Sacramento County include: Newbridge Master Plan, Mather South Master Plan, Folsom Plan Area Master Plan, Elverta Specific Plan Level 2 studies, Caselman North Level 2 Study, Cordova Hills Level 2 Study, Gardner Parke Level 3 study, and many others. Having a vast array of experience in drainage design, models, and development of drainage studies allows D&A to review these elements of development with a keen eye on not only the standards, but good drainage design to ensure both public safety and long-term operations and maintenance.
-
-Wokring under a profesional engineer, I regualty develop pre and prost condtiions hraulic model, develop 10-year and 100-year hydrology, and write hydraulic reports and technical technical memorandum.
+D&A has subcontracted with MacKay and Somps to provide drainage design, calculations, and studies for development projects throughout the Sacramento region. D&A has provided over 100 studies in the region, many of which are for projects in Sacramento County DWR jurisdiction. Level 1, Level 2, and Level 4 studies have been prepared following the County’s drainage study requirements, both before and after the 2020 requirements document. In all cases, hydrology and hydraulics follow the County Drainage Manual Volume 2 and improvement plan Section 9 (Storm Drain Design. Drainage studies performed in the last five years have also considered the Sacramento Stormwater Quality Partnership Hydromodification Management Plan and the Sacramento Region Stormwater Quality Design Manual. D&A has taken a comprehensive approach to drainage design to incorporate low-impact development, stormwater quality, hydromodification, and flood control. Example projects in Sacramento County include: Newbridge Master Plan, Mather South Master Plan, Folsom Plan Area Master Plan, Elverta Specific Plan Level 2 studies, Caselman North Level 2 Study, Cordova Hills Level 2 Study, Gardner Parke Level 3 study, and many others. Having a vast array of experience in drainage design, models, and development of drainage studies allows D&A to review these elements of development with a keen eye on not only the standards, but good drainage design to ensure both public safety and long-term operations and maintenance.
+Working under a professional engineer, I regularly develop pre and post-condition hydraulic models, develop 10-year and 100-year hydrology, and write hydraulic reports and technical memorandum.
 
 
 **San Joaquin County Bridge Hydrologic and Hydraulic Analysis and Reports**
 
 (2021-Present)
 
-D&A has provided Hydraulic Location Studies for several bridge designs throughout the County including Airport Road over the San Joaquin River, Buckman Road Bridge over Duck Creek, Miller’s Ferry Bridge over the Mokelumne River.
+D&A has provided Hydraulic Location Studies for several bridge designs throughout the County including Airport Road over the San Joaquin River, Buckman Road Bridge over Duck Creek, and Miller’s Ferry Bridge over the Mokelumne River.
 
-Working under a professional engineer, my work involes hydraulic modeling and reprot writing to inform the desing of bridges, floodplains, and scour.
+Working under a professional engineer, my work involves hydraulic modeling and report writing to inform the design of bridges, floodplains, and scour.
 
 
 **Phase 4,5, &6 Arden Service Area Pipe and Meter Installation Project, Sacramento County Water Agency (SCWA)**
 
 (2021 - Present)
 
-D&A is providing design plans, specifications, and cost estimate for approximately 80,000 feet of new 12-inch, 10-inch and 8-inch DIP mainline.  The project abandons old undersized backyard mains and includes replacing fire hydrants, reconnecting interties, reconnecting wells and 1,300 metered service reconnections. Engineering services also include pipeline design, water system modeling, engineering services during construction and utility coordination.  My roles include QA/QC of the existing utilites maps and drafting desing of the pipeline plan and profile views.
+D&A is providing design plans, specifications, and cost estimate for approximately 80,000 feet of new 12-inch, 10-inch and 8-inch DIP mainline.  The project abandons old undersized backyard mains and includes replacing fire hydrants, reconnecting interties, reconnecting wells and 1,300 metered service reconnections. Engineering services also include pipeline design, water system modeling, engineering services during construction, and utility coordination.
+
+My roles include QA/QC of the existing utility maps and drafting the design of the pipeline plan and profile views.
 
 
 **Rancho Murieta - Comunity Developmnet Plan and Mainaance**
@@ -50,7 +51,7 @@ My work includes sytem reviews of storm drain design and sewer systems. Included
 
 (2021 - 2023)
 
-Working under a princiap elgineer and project engineer, I Prepared contract plans and specifications for approximately 17,249 linear-feet of 18-inch and 20-inch DR 18 PVC force main within El Dorado County right-of way and EID property. The design includes three phases of replace the remaining portions of AC pipe force main and included desing plans for a horizontal directional drilling to reduce impact to riparian wetland.
+Desing complete and project out for bid.  Working under a princiap elgineer and project engineer, I Prepared contract plans and specifications for approximately 17,249 linear-feet of 18-inch and 20-inch DR 18 PVC force main within El Dorado County right-of way and EID property. The design includes three phases of replace the remaining portions of AC pipe force main and included desing plans for a horizontal directional drilling to reduce impact to riparian wetland.
 
 **Alta Loop Pipeline – Cable Road Water Main Replacement Project – Placer County Water Agency (PCWA)**
 
