@@ -7,6 +7,11 @@ header:
   image: "/images/streamteam.jpg"
 ---
 
+The action of every agent <br />
+  into the world <br />
+starts <br />
+  from their physical selves. <br />
+
 ## Current Projects ##
 
 **MacKay and Somps Drainage Report Development**  (2021-Present)
