@@ -16,9 +16,10 @@ header:
 
 (2021-Present)
 
-D&A has subcontracted with MacKay and Somps to provide drainage design, calculations, and studies for development projects throughout the Sacramento region. D&A has provided over 100 studies in the region, many of which are for projects in Sacramento County DWR jurisdiction. Level 1, Level 2, and Level 4 studies have been prepared following the County’s drainage study requirements, both before and after the 2020 requirements document. In all cases, hydrology and hydraulics follow the County Drainage Manual Volume 2 and improvement plan Section 9 (Storm Drain Design. Drainage studies performed in the last five years have also considered the Sacramento Stormwater Quality Partnership Hydromodification Management Plan and the Sacramento Region Stormwater Quality Design Manual. D&A has taken a comprehensive approach to drainage design to incorporate low-impact development, stormwater quality, hydromodification, and flood control. Example projects in Sacramento County include: Newbridge Master Plan, Mather South Master Plan, Folsom Plan Area Master Plan, Elverta Specific Plan Level 2 studies, Caselman North Level 2 Study, Cordova Hills Level 2 Study, Gardner Parke Level 3 study, and many others. Having a vast array of experience in drainage design, models, and development of drainage studies allows D&A to review these elements of development with a keen eye on not only the standards, but good drainage design to ensure both public safety and long-term operations and maintenance.
+D&A has subcontracted with MacKay and Somps to provide drainage design, calculations, and studies for development projects throughout the Sacramento region. D&A provides studies in the region, many of which are for projects in Sacramento County DWR jurisdiction. Level 1, Level 2, and Level 4 studies have been prepared following the County’s drainage study requirements. In all cases, hydrology and hydraulics follow the County Drainage Manual Volume 2 and improvement plan Section 9 (Storm Drain Design). Drainage studies also considered the Sacramento Stormwater Quality Partnership Hydromodification Management Plan and the Sacramento Region Stormwater Quality Design Manual. D&A takes a comprehensive approach to drainage design to incorporate low-impact development, stormwater quality, hydromodification, and flood control.
 
-Working under a professional engineer, I regularly develop pre and post-condition hydraulic models, and develop 10-year and 100-year. I further assist by drafting design reports and and technical memoranda.
+For this work, I regularly develop pre-condition and post-condition models of the proposed development site.  I regularly use HEC-HMS to develop the hydrology and HEC-RAS to determine the hydraulic response.  County standards further require the use of models such as SacCalc and SAHM, I regularly use these models for development analysis.  Results from these models allow me to recommend the sizing of flood control basins and site-specific drainage design.  I further assist with the writing of technical memoranda and drainage reports.
+
 
 ** **
 
@@ -26,19 +27,22 @@ Working under a professional engineer, I regularly develop pre and post-conditio
 
 (2021-Present)
 
-D&A has provided Hydraulic Location Studies for several bridge designs throughout the County including Airport Road over the San Joaquin River, Buckman Road Bridge over Duck Creek, and Miller’s Ferry Bridge over the Mokelumne River.
+D&A has provided Hydraulic Location Studies for several bridge designs throughout San Joaquin County.  The two projects that I work on were Buckman Road Bridge over Duck Creek and Miller’s Ferry Bridge over the Mokelumne River. 
 
-Working under a professional engineer, my work involves hydraulic modeling and report writing to inform the design of bridges, floodplains, and scour.
+For the Buckman Road Bridge project, I developed a HEC-RAS 2D hydraulic model for the bridge and surrounding floodplain.  I tested multiple bridge layouts and approach roads with the goal of maximizing flow through the channel and maintaining overland release at the road.  Project results were compiled into a Technical Memorandum that was shared with San Joaquin County and the Central Valley Flood Protection Board.
+
+For the Millers Ferry Bridge project, I adapted an existing HEC-RAS 1D San Joaquin Delta Model for the bridge and surrounding floodplain.  Working with San Joaquin County personnel, I performed hydraulic analyses for each bridge.  After settling on a bridge design that met approved floorboard and navigation standards, I calculated scour conditions and recommended riprap configuration and sizing.  
+
 
 ** **
 
-**Phase 4,5, &6 Arden Service Area Pipe and Meter Installation Project, Sacramento County Water Agency (SCWA)**
+**Phase 1b, 4, 5, &6 Arden Service Area Pipe and Meter Installation Project, Sacramento County Water Agency (SCWA)**
 
 (2021 - Present)
 
-D&A is providing design plans, specifications, and cost estimate for approximately 80,000 feet of new 12-inch, 10-inch and 8-inch DIP mainline.  The project abandons old undersized backyard mains and includes replacing fire hydrants, reconnecting interties, reconnecting wells and 1,300 metered service reconnections. Engineering services also include pipeline design, water system modeling, engineering services during construction, and utility coordination.
+D&A is providing design plans, specifications, and cost estimates for approximately 80,000 feet of new 12-inch, 10-inch, and 8-inch DIP mainline. The project abandons old undersized backyard mains and includes replacing fire hydrants, reconnecting interties, reconnecting wells, and 1,300 metered service reconnections. Engineering services also include pipeline design, water system modeling, engineering services during construction, and utility coordination.
 
-My roles include QA/QC of the existing utility maps and drafting the design of the pipeline plan and profile views.
+I assisted with drafting at multiple stages of the project. In the early phases, I took part in the development of the existing utility maps by adapting existing GIS maps, as-built drawings, surveys, and field verification to determine the best utility locations.  Later in the development, I assisted with drafting plans, as well as reviewing plans and other supporting documents.
 
 ** **
 
@@ -58,7 +62,10 @@ My work includes sytem reviews of storm drain design and sewer systems. Included
 
 (2021 - 2023)
 
-Desing complete and project out for bid.  Working under a princiap elgineer and project engineer, I Prepared contract plans and specifications for approximately 17,249 linear-feet of 18-inch and 20-inch DR 18 PVC force main within El Dorado County right-of way and EID property. The design includes three phases of replace the remaining portions of AC pipe force main and included desing plans for a horizontal directional drilling to reduce impact to riparian wetland.
+Design complete and project out for bid. This project included approximately 17,249 linear feet of 18-inch and 20-inch DR 18 PVC force main within El Dorado County right-of-way and EID property. The design includes three phases to replace the remaining portions of the AC pipe force main.  It includes design plans for horizontal directional drilling to reduce the impact on a riparian wetland, design alignments to minimize traffic impacts during construction, and design improvements for the 4 lift station reconnections.
+
+For this project, I prepared the project plans for the three phases.  This included developing existing utility maps, design alignments for plan and profile, and finalizing all drawings.  I also reviewed and organized the project's design specifications and participated in meetings with the district representatives.
+
 
 ** **
 
