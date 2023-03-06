@@ -50,7 +50,7 @@ I assisted with drafting at multiple stages of the project. In the early phases,
 
 (2021 - Present)
 
-D&A provides on-call engineering services for Rancho Murieta Community Services District.  This work included providing reviews and comments for development plans and their associated drainage studies, sewer studies, and water studies. D&A provided the design for a major drainage outfall for RMCSD as an emergency project to drain major portions of the District to the Cosumnes River. The project required a fast-track design and construction schedule to establish the discharge system to the river before the 2022 winter.![image](https://user-images.githubusercontent.com/50218184/223001151-0c7a28a9-5c7c-438d-ba14-3f2fb6d31336.png)
+D&A provides on-call engineering services for Rancho Murieta Community Services District.  This work included providing reviews and comments for development plans and their associated drainage studies, sewer studies, and water studies. D&A provided the design for a major drainage outfall for RMCSD as an emergency project to drain major portions of the District to the Cosumnes River. The project required a fast-track design and construction schedule to establish the discharge system to the river before the 2022 winter.
 
 I drafted plans for the repair of a storm drain outfall replacement project.  I made performed mapping and calculations for a proposed gravity-fed raw water pipeline.  I assisted with the development of cost estimates and maps for FEMA floodplain improvement projects.
 
