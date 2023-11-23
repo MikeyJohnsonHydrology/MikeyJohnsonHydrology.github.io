@@ -12,6 +12,15 @@ header:
 
 ** **
 
+**County of Sacramento Department of Water Resources**
+
+(2023)
+
+As part of the D&A's current on-call contract with Sacramento County Department of Water Resources, the Elder-Gerber Creek drainage model was updated and continues to be updated by D&A.  The HEC-RAS model covers the full extent of Elder Creek and Gerber Creek and is used for planning and flood control purposes.  Both current and ultimate conditions models could be compared to the baseline conditions to determine the development impacts.  Model improvements were a fast-track effort, with full model updates completed within a two-month period.
+
+
+** **
+
 **MacKay and Somps Drainage Report Development**
 
 (2021-Present)
@@ -57,6 +66,7 @@ I drafted plans for the repair of a storm drain outfall replacement project.  I 
 ** **
 
 ## Old Projects
+
 
 **Motherlode Force Main, Phase 3, El Dorado Irrigation District (EID)**
 
