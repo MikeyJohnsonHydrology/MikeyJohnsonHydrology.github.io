@@ -27,7 +27,17 @@ As part of the D&A's current on-call contract with Sacramento County Department 
 
 D&A has subcontracted with MacKay and Somps to provide drainage design, calculations, and studies for development projects throughout the Sacramento region. D&A provides studies in the region, many of which are for projects in Sacramento County DWR jurisdiction. Level 1, Level 2, and Level 4 studies have been prepared following the County’s drainage study requirements. In all cases, hydrology and hydraulics follow the County Drainage Manual Volume 2 and improvement plan Section 9 (Storm Drain Design). Drainage studies also considered the Sacramento Stormwater Quality Partnership Hydromodification Management Plan and the Sacramento Region Stormwater Quality Design Manual. D&A takes a comprehensive approach to drainage design to incorporate low-impact development, stormwater quality, hydromodification, and flood control.
 
-For this work, I regularly develop pre-condition and post-condition models of the proposed development site.  I regularly use HEC-HMS to develop the hydrology and HEC-RAS to determine the hydraulic response.  County standards further require the use of models such as SacCalc and SAHM, I regularly use these models for development analysis.  Results from these models allow me to recommend the sizing of flood control basins and site-specific drainage design.  I further assist with the writing of technical memoranda and drainage reports.
+For this work, I regularly develop pre-condition and post-condition models of the proposed development site.  I regularly use HEC-HMS to develop the hydrology and HEC-RAS to determine the hydraulic response.  County standards further require models such as SacCalc and SAHM, I regularly use these models for development analysis.  Results from these models allow me to recommend the sizing of flood control basins and site-specific drainage design.  I further assist with the writing of technical memoranda and drainage reports.
+
+Recent Projects Include:
+  - Capitol SouthEast Connectore Hydraulic Study, 2024
+  - Grandpark Drainage Master Plan (Level 1 Study), 2024-Present
+  - Easton Pahse A Drainage Master Plan (Level 1 Study), 2023-Present
+  - Bilby Ridge Master Plan (Level 1 Study), 2023-Present
+  - Elder Creek and Gerber Creek 2024 FEMA Letter of Map Revision (LOMR), 2024
+  - Liberty at Lincoln Phase 1 FEMA Letter of Map Revision (LOMR), 2024
+  - Caperton Canal Construction, 2023
+
 
 
 ** **
